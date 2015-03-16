@@ -1,0 +1,6 @@
+D:\Hristo\Telerik\Homeworks\H3 - OOP\GSM Defining Classes - Part 1\DefiningClasses1\bin\Debug\DefiningClasses1.exe.config
+D:\Hristo\Telerik\Homeworks\H3 - OOP\GSM Defining Classes - Part 1\DefiningClasses1\bin\Debug\DefiningClasses1.exe
+D:\Hristo\Telerik\Homeworks\H3 - OOP\GSM Defining Classes - Part 1\DefiningClasses1\bin\Debug\DefiningClasses1.pdb
+D:\Hristo\Telerik\Homeworks\H3 - OOP\GSM Defining Classes - Part 1\DefiningClasses1\obj\Debug\DefiningClasses1.csprojResolveAssemblyReference.cache
+D:\Hristo\Telerik\Homeworks\H3 - OOP\GSM Defining Classes - Part 1\DefiningClasses1\obj\Debug\DefiningClasses1.exe
+D:\Hristo\Telerik\Homeworks\H3 - OOP\GSM Defining Classes - Part 1\DefiningClasses1\obj\Debug\DefiningClasses1.pdb
